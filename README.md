@@ -1,7 +1,7 @@
 # Emotion-Analysis
 
 Overview
-
+Hey
 This project implements a Convolutional Neural Network (CNN) to detect human emotions from facial expressions. The model is trained on a Kaggle dataset and uses deep learning techniques to classify images into different emotion categories.
 
 Features:
